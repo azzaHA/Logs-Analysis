@@ -1,5 +1,5 @@
 # Logs Analysis
-Logs Analysis is a reporting tool for a newspaper site with an already built database. It uses information from the database to discover what kind of articles the site's readers like.
+Logs Analysis is a reporting tool for a newspaper site with an already built database. It uses information from the database to discover what kind of articles the site's readers like more.
 # Prerequisites
 1. [Python2.7](https://www.python.org/download/releases/2.7/)
 2. [PostgreSQL](https://www.postgresql.org/download/)
